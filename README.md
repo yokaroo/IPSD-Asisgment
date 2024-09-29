@@ -1,4 +1,4 @@
-## Repository Praktikum Infrastruktur dan Platform Untuk Sains Data 
+## Dasar-dasar Python Untuk Sains Data 
 
 <pre>
 Nama : Yoka Romadani

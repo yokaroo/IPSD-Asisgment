@@ -1,1 +1,0 @@
-### Yoka romadani

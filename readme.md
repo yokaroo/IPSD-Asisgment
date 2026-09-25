@@ -515,7 +515,7 @@ Jika nilai target adalah angka genap, fungsi melakukan pencarian biner dengan me
 
 Pada contoh kode, kita melakukan pencarian nilai 12, 11, dan 22 dalam list angka. Hasilnya adalah indeks nilai 12, pesan bahwa nilai 11 tidak ditemukan karena merupakan angka ganjil, dan pesan bahwa nilai 22 tidak ditemukan.
 ## Kesimpulan
-Bahasa pemprograman merupakan adalah suatu komando atau perintah yang dibuat manusia untk membuat komputer menjadi memiliki fungsi tertentu[1]. Dengan belajar Dasar-dasar python untuk sains data kita dapat mengetahui beerbagai macam tipe data dan variabel yang ada dalam bahasa pemrogaman python.
+Bahasa pemprograman merupakan suatu komando atau perintah yang dibuat manusia untk membuat komputer menjadi memiliki fungsi tertentu[1]. Dengan belajar Dasar-dasar python untuk sains data kita dapat mengetahui beerbagai macam tipe data dan variabel yang ada dalam bahasa pemrogaman python.
 
 ## Referensi
 [1] Wimawan, R. B. (2019, April 11). Tipe Data Sederhana. https://doi.org/10.31219/osf.io/vwf52
